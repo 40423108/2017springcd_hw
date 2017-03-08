@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"tags":"misc","url":"./pages/about/","title":"About","text":"2016Fall 修課成員網誌"},{"tags":"HW","url":"./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou-zuo-ye.html","title":"協同產品設計實習 第二周作業","text":"利用solvespace 四連桿 IP修改 作業心得 這週老師教了繪製四連桿機構，和改ip位置。"}]};
