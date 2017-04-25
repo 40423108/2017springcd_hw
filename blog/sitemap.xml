@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-23T08:36:17-00:00</lastmod>
+<lastmod>2017-04-25T23:10:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-23T08:36:17-00:00</lastmod>
+<lastmod>2017-04-25T23:10:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-23T08:36:17-00:00</lastmod>
+<lastmod>2017-04-25T23:10:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-23T08:36:17-00:00</lastmod>
+<lastmod>2017-04-25T23:10:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-23T08:31:59+08:00</lastmod>
+<lastmod>2017-04-25T21:17:04+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</loc>
+<lastmod>2017-04-20T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,21 +68,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/hw.html</loc>
-<lastmod>2017-03-23T12:08:00+08:06</lastmod>
+<lastmod>2017-04-20T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/hw.html</loc>
-<lastmod>2017-03-23T12:08:00+08:06</lastmod>
+<lastmod>2017-04-20T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40423108.html</loc>
-<lastmod>2017-03-23T12:08:00+08:06</lastmod>
+<lastmod>2017-04-20T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
