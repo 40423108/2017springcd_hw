@@ -22,7 +22,7 @@ brython(1);
 
 &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
 
-&lt;canvas id="fourbar" width="600" height="400"&gt;&lt;/canvas&gt;
+&lt;canvas id="fourbar" width="1200" height="800"&gt;&lt;/canvas&gt;
 
 &lt;div id="container1"&gt;&lt;/div&gt;
 
@@ -66,7 +66,12 @@ ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
-&lt;/script&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;
+
+&lt;h1&gt;solvespace&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/wuF8Ul9"&gt;&lt;img src="http://i.imgur.com/wuF8Ul9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Excel&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/W8eEgWT"&gt;&lt;img src="http://i.imgur.com/W8eEgWT.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第四周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-23T12:08:00+08:00</published><updated>2017-03-23T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;利用solvespace畫單連桿&lt;/h1&gt;
 &lt;h1&gt;單連桿&lt;/h1&gt;
