@@ -1,5 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 Springcd (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T12:08:00+08:00</updated><entry><title>協同產品設計實習 期中四連桿機構協同 Trace Point 查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 Springcd (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T12:08:00+08:00</updated><entry><title>協同產品設計實習 分組協同零件展示</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-fen-zu-xie-tong-ling-jian-zhan-shi.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-fen-zu-xie-tong-ling-jian-zhan-shi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h1&gt;
+&lt;p&gt;&lt;link href="./../work/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
+&lt;script src="./../work/madeleine/src/stats.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/detector.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/three.min.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/Onshape行走機構.stl', // data path
+      path: './../work/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+&lt;/script&gt;
+
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="./../Madeleine/loader.js"&gt;&lt;/script&gt;
+
+&lt;script src="./../Madeleine/stl.js"&gt;&lt;/script&gt;
+
+&lt;div&gt;
+select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
+&lt;/div&gt;
+
+&lt;div id="view"&gt;&lt;/div&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中Fourbar Walker OnShape 零件協同繪圖與組立查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h1&gt;
+&lt;h1&gt;Solvespace行走機構 影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MZt91rKpLUM?list=PLswwZSDAEBN3JN14ezLoEpBD3gbyiuYYe" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;Onshape行走機構&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lqrb15tl1Uc?list=PLswwZSDAEBN3JN14ezLoEpBD3gbyiuYYe" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中四連桿機構協同 Trace Point 查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;四連桿機構協同 Trace Point 查驗&lt;/h1&gt;
+&lt;h1&gt;Trace Point 查驗&lt;/h1&gt;
+&lt;h1&gt;影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cBHCJ1iA5DU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;軌跡圖&lt;/h1&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;canvas id="fourbar" width="1200" height="800"&gt;&lt;/canvas&gt;
+
+&lt;div id="container1"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+fourbar_data = open("./../data/Trace Point.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 &lt;= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 8 倍
+ratio = 6
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
+    #container1 &lt;= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+&lt;/script&gt;
+
+&lt;h1&gt;solvespace&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/wuF8Ul9"&gt;&lt;img src="http://i.imgur.com/wuF8Ul9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Excel&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/W8eEgWT"&gt;&lt;img src="http://i.imgur.com/W8eEgWT.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中四連桿機構協同 Trace Point 查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;四連桿機構協同 Trace Point 查驗&lt;/h1&gt;
 &lt;h1&gt;Trace Point 查驗&lt;/h1&gt;
@@ -50,6 +163,150 @@ ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
 # 畫出 x 與 y 座標線
 # 各座標值放大 8 倍
 ratio = 8
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
+    #container1 &lt;= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+&lt;/script&gt;
+
+&lt;h1&gt;solvespace&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/wuF8Ul9"&gt;&lt;img src="http://i.imgur.com/wuF8Ul9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Excel&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/W8eEgWT"&gt;&lt;img src="http://i.imgur.com/W8eEgWT.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中四連桿機構協同 Trace Point 查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;四連桿機構協同 Trace Point 查驗&lt;/h1&gt;
+&lt;h1&gt;Trace Point 查驗&lt;/h1&gt;
+&lt;h1&gt;影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cBHCJ1iA5DU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;軌跡圖&lt;/h1&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;canvas id="fourbar" width="1200" height="800"&gt;&lt;/canvas&gt;
+
+&lt;div id="container1"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+fourbar_data = open("./../data/Trace Point.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 &lt;= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 8 倍
+ratio = 8
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
+    #container1 &lt;= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+&lt;/script&gt;
+
+&lt;h1&gt;solvespace&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/wuF8Ul9"&gt;&lt;img src="http://i.imgur.com/wuF8Ul9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Excel&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/W8eEgWT"&gt;&lt;img src="http://i.imgur.com/W8eEgWT.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中四連桿機構協同 Trace Point 查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;四連桿機構協同 Trace Point 查驗&lt;/h1&gt;
+&lt;h1&gt;Trace Point 查驗&lt;/h1&gt;
+&lt;h1&gt;影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cBHCJ1iA5DU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;軌跡圖&lt;/h1&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;canvas id="fourbar" width="1200" height="800"&gt;&lt;/canvas&gt;
+
+&lt;div id="container1"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+fourbar_data = open("./../data/Trace Point.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 &lt;= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 8 倍
+ratio = 6
 ctx.moveTo(0, 0)
 ctx.lineTo(-30*ratio, 0)
 start_point = fourbar_list[0].split(",")
