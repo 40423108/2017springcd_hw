@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 Springcd (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-21T11:08:00+08:00</updated><entry><title>協同產品設計實習 期中Fourbar Walker OnShape 零件協同繪圖與組立查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html" rel="alternate"></link><published>2017-04-21T11:08:00+08:00</published><updated>2017-04-21T11:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-21:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 Springcd (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-29T12:08:00+08:00</updated><entry><title>協同產品設計實習 第十周作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-29T12:08:00+08:00</published><updated>2017-04-29T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-29:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.brython
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;!--&lt;canvas id="w10" width="800" height="600"&gt;&lt;/canvas&gt;--&gt;
+
+&lt;div id="container" width="600" height="400"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+container = doc['container']
+degree = math.pi/180
+def button1(event):
+    a = input("give me a")
+    container &lt;= str(math.cos(60*degree)+float(a))
+doc["button1"].bind("click", button1)
+&lt;/script&gt;
+
+&lt;p&gt;&lt;button id="button1"&gt;按下取 a 值&lt;/button&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期中Fourbar Walker OnShape 零件協同繪圖與組立查驗</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html" rel="alternate"></link><published>2017-04-21T11:08:00+08:00</published><updated>2017-04-21T11:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-04-21:./xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h1&gt;
 &lt;h1&gt;Solvespace行走機構 影片&lt;/h1&gt;
