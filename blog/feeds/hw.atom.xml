@@ -73,7 +73,92 @@ ctx.fill()
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8E7VIi0J52g" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4kC_i5GMuJs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第十五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-06-07T12:08:00+08:00</published><updated>2017-06-07T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-06-07:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4kC_i5GMuJs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 期末專題行走機構</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-zhuan-ti-xing-zou-ji-gou.html" rel="alternate"></link><published>2017-06-15T12:08:00+08:00</published><updated>2017-06-15T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-06-15:./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-zhuan-ti-xing-zou-ji-gou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;期末專題:繪製、製作四足行走機構&lt;/h2&gt;
+&lt;p&gt;1.利用ONSHAPE繪製四足行走機構各部位零件&lt;/p&gt;
+&lt;p&gt;2.各組員繪製零件&lt;/p&gt;
+&lt;p&gt;3.用ONSHAPE建立團隊在線上進行協同組裝&lt;/p&gt;
+&lt;p&gt;4.使用V-REP進行腳部運作模擬&lt;/p&gt;
+&lt;p&gt;四行走機構:本體上採用5個齒輪及1個馬達進行傳動，腳部為參考仿生獸之機構，再自行設計尺寸設計繪製，控制方面是使用ARDUINO控制伺服馬達進行走動。&lt;/p&gt;
+&lt;h1&gt;成品圖&lt;/h1&gt;
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/HHTGFkHlRh8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/lODUtlTjHow" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://imgur.com/ox1rQvu"&gt;&lt;img src="http://i.imgur.com/ox1rQvu.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/NuTmD2n"&gt;&lt;img src="http://i.imgur.com/NuTmD2n.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/Suxd3Nh"&gt;&lt;img src="http://i.imgur.com/Suxd3Nh.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;1.利用ONSHAPE繪製四足行走機構各部位零件&lt;/h1&gt;
+&lt;p&gt;個人負責部分&lt;/p&gt;
+&lt;p&gt;齒輪T20&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/f9BskUM"&gt;&lt;img src="http://i.imgur.com/f9BskUM.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;齒輪T15&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/C9PY0CW"&gt;&lt;img src="http://i.imgur.com/C9PY0CW.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;齒輪T18&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/xnoIzb1"&gt;&lt;img src="http://i.imgur.com/xnoIzb1.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;齒輪T25&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/M3SNO1E"&gt;&lt;img src="http://i.imgur.com/M3SNO1E.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;齒輪T12&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/qYaQn0Z"&gt;&lt;img src="http://i.imgur.com/qYaQn0Z.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;2.各組員繪製零件&lt;/h1&gt;
+&lt;p&gt;由40423139:&lt;/p&gt;
+&lt;p&gt;零件1&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/0mri5Rp"&gt;&lt;img src="http://i.imgur.com/0mri5Rp.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222775574" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222775574"&gt;2017-06-23_11-26-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件2&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/e13RCk9"&gt;&lt;img src="http://i.imgur.com/e13RCk9.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222775934" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222775934"&gt;2017-06-23_11-43-11&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件3&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/nJIGMZS"&gt;&lt;img src="http://i.imgur.com/nJIGMZS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222778866" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222778866"&gt;2017-06-23_11-52-08&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件4&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/pKUy5Jq"&gt;&lt;img src="http://i.imgur.com/pKUy5Jq.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222778861" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222778861"&gt;2017-06-23_11-57-15&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件5&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/4pOcLt6"&gt;&lt;img src="http://i.imgur.com/4pOcLt6.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222780433" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222780433"&gt;2017-06-23_12-22-11&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件6&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/uOTpwXl"&gt;&lt;img src="http://i.imgur.com/uOTpwXl.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222779869" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222779869"&gt;2017-06-23_12-12-50&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件7&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/w3IpYrS"&gt;&lt;img src="http://i.imgur.com/w3IpYrS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222780582" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222780582"&gt;2017-06-23_12-30-50&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;由40423140:&lt;/p&gt;
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/DYHBLNmvi18" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/uhafPae8IXM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;3.用ONSHAPE建立團隊在線上進行協同組裝&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/222781931" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222781931"&gt;2017-06-23_12-55-03&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://imgur.com/2QmV3vP"&gt;&lt;img src="http://i.imgur.com/2QmV3vP.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E6s21gikOhw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/222782958" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222782958"&gt;ag4協同繪製組裝四足機構(onshape)-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/-IHbTZ50PUM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;4.使用V-REP進行腳部運作模擬&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oRponkfd37k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第十六週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-liu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-06-07T12:08:00+08:00</published><updated>2017-06-07T12:08:00+08:00</updated><author><name>40423108</name></author><id>tag:,2017-06-07:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-liu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;各零件尺寸加工工作圖&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/IGiTm4t"&gt;&lt;img src="http://i.imgur.com/IGiTm4t.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
